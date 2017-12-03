@@ -2,3 +2,4 @@
 Testing the webhook
 don't sleep
 forgot to apply
+configured slave nodes
